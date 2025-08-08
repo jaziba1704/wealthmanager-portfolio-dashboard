@@ -1,0 +1,31 @@
+{
+  "holdings": [
+    {"symbol":"RELIANCE","name":"Reliance Industries Ltd","quantity":50,"avgPrice":2450,"currentPrice":2680.5,"sector":"Energy","marketCap":"Large","exchange":"NSE"},
+    {"symbol":"INFY","name":"Infosys Limited","quantity":100,"avgPrice":1800,"currentPrice":2010.75,"sector":"Technology","marketCap":"Large","exchange":"NSE"},
+    {"symbol":"TCS","name":"Tata Consultancy Services Ltd","quantity":75,"avgPrice":3200,"currentPrice":3450.25,"sector":"Technology","marketCap":"Large","exchange":"NSE"},
+    {"symbol":"HDFCBANK","name":"HDFC Bank Ltd","quantity":80,"avgPrice":1650,"currentPrice":1580.3,"sector":"Banking","marketCap":"Large","exchange":"NSE"},
+    {"symbol":"ICICIBANK","name":"ICICI Bank Ltd","quantity":60,"avgPrice":1100,"currentPrice":1235.8,"sector":"Banking","marketCap":"Large","exchange":"NSE"},
+    {"symbol":"BHARTIARTL","name":"Bharti Airtel Ltd","quantity":120,"avgPrice":850,"currentPrice":920.45,"sector":"Telecommunication","marketCap":"Large","exchange":"NSE"},
+    {"symbol":"ITC","name":"ITC Limited","quantity":200,"avgPrice":420,"currentPrice":465.2,"sector":"Consumer Goods","marketCap":"Large","exchange":"NSE"},
+    {"symbol":"BAJFINANCE","name":"Bajaj Finance Ltd","quantity":25,"avgPrice":6800,"currentPrice":7150.6,"sector":"Financial Services","marketCap":"Large","exchange":"NSE"},
+    {"symbol":"ASIANPAINT","name":"Asian Paints Ltd","quantity":40,"avgPrice":3100,"currentPrice":2890.75,"sector":"Consumer Discretionary","marketCap":"Large","exchange":"NSE"},
+    {"symbol":"MARUTI","name":"Maruti Suzuki India Ltd","quantity":30,"avgPrice":9500,"currentPrice":10250.3,"sector":"Automotive","marketCap":"Large","exchange":"NSE"},
+    {"symbol":"WIPRO","name":"Wipro Limited","quantity":150,"avgPrice":450,"currentPrice":485.6,"sector":"Technology","marketCap":"Large","exchange":"NSE"},
+    {"symbol":"TATAMOTORS","name":"Tata Motors Ltd","quantity":100,"avgPrice":650,"currentPrice":720.85,"sector":"Automotive","marketCap":"Large","exchange":"NSE"},
+    {"symbol":"TECHM","name":"Tech Mahindra Ltd","quantity":80,"avgPrice":1200,"currentPrice":1145.25,"sector":"Technology","marketCap":"Large","exchange":"NSE"},
+    {"symbol":"AXISBANK","name":"Axis Bank Ltd","quantity":90,"avgPrice":980,"currentPrice":1055.4,"sector":"Banking","marketCap":"Large","exchange":"NSE"},
+    {"symbol":"SUNPHARMA","name":"Sun Pharmaceutical Industries Ltd","quantity":60,"avgPrice":1150,"currentPrice":1245.3,"sector":"Healthcare","marketCap":"Large","exchange":"NSE"}
+  ],
+  "performance": {
+    "timeline": [
+      {"date":"2024-01-01","portfolio":650000,"nifty50":21000,"gold":62000},
+      {"date":"2024-03-01","portfolio":680000,"nifty50":22100,"gold":64500},
+      {"date":"2024-06-01","portfolio":700000,"nifty50":23500,"gold":68000}
+    ],
+    "returns": {
+      "portfolio":{"1month":2.3,"3months":8.1,"1year":15.7},
+      "nifty50":{"1month":1.8,"3months":6.2,"1year":12.4},
+      "gold":{"1month":-0.5,"3months":4.1,"1year":8.9}
+    }
+  }
+}
